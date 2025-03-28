@@ -255,7 +255,7 @@ Dispositivo 4 não pode ser ligado. Energia insuficiente.
 Dispositivo 5 não pode ser ligado. Energia insuficiente.
 
 ``` javascript
-// Obs. 
+// Obs. bateria extra não pode ficar negativa, caso ocorra, impede que dispositivo seja ligado
 ```
 
 ______
